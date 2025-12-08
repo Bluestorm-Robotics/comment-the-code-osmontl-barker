@@ -19,11 +19,9 @@
 The Uncommented Code:
 
 // ============================================
-// YOUR NAME AND DATE GO HERE (uncomment and edit the line below):
-// 
-// Author: Your Name Here
-// Date:   Today's Date Here
-// AI:  Yes / No I used AI to help me with this assignment.
+// Author: Lucy B
+// Date:  Dec 5
+// AI: No 
 // ============================================
 
 #include <Zumo32U4.h>
